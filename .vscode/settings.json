@@ -1,0 +1,9 @@
+{
+    "cmake.configureOnOpen": true,
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
